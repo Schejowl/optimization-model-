@@ -7,14 +7,14 @@ class TimeSlotOptimizer:
     def __init__(self, preference_matrix):
 
         self.k = 1
-        self.coverage_weight = 10  
-        self.preference_weight = 1  
         self.matrix = preference_matrix
         self._build_new_model()
 
     def _build_new_model(self):
         self.p = np.array(self.matrix)
         self.num_people, self.num_time_slots = self.p.shape
+        self.coverage_weight = 1-1/self.num_people
+        self.preference_weight = 1/self.num_people
         self.model = gp.Model("TimeSlotSelection")
         self.y = self.model.addVars(self.num_time_slots, vtype=GRB.BINARY, name="y")
         self._build_model()        
@@ -64,7 +64,7 @@ class TimeSlotOptimizer:
                 splitted_row.append(element)
                 splitted_row.append(element)
             splitted_matrix.append(splitted_row)
-        self.k = self.k + 1
+        self.k = self.k*2
         self.matrix = splitted_matrix
         self._build_new_model()
         
