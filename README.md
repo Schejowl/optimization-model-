@@ -3,6 +3,8 @@
 **Instructions:** 
 Please run the code given in the file within the repository on a local device. Once you run the code on your local host, a website will run on your local host to demonstrate the end product of this project. 
 
+**Latex Documentation of Optimixation Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
+
 **Team Members:**
 
 **Angel Koh** - Optimization problem subteam, worked on converting and finalizing the complete optimization model 
