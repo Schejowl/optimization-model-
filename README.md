@@ -11,5 +11,6 @@
 
 **Varshini Loganathan** - Team Lead/Website UI subteam, led/scheduled meetings, converted Schej website UI into our website, built out showcase presentation 
 
-**Latex Documentation of Optimization Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
+# Latex Documentation of Optimization Model: 
+https://www.overleaf.com/read/qtkndmstgmdt#c639e0
 
