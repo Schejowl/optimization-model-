@@ -1,9 +1,7 @@
 # README file 
 
-**Instructions:** 
-Please run the code given in the file within the repository on a local device. Once you run the code on your local host, a website will run on your local host to demonstrate the end product of this project. 
 
-**Latex Documentation of Optimixation Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
+**Latex Documentation of Optimization Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
 
 **Team Members:**
 
