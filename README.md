@@ -1,9 +1,5 @@
-# README file 
+# Team Members:
 
-
-**Latex Documentation of Optimization Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
-
-**Team Members:**
 
 **Angel Koh** - Optimization problem subteam, worked on converting and finalizing the complete optimization model 
 
@@ -14,3 +10,6 @@
 **Nursultan Asilbekov** - Optimization problem subteam, worked on converting and finalizing complete optimization model, came up with Schejowl name 
 
 **Varshini Loganathan** - Team Lead/Website UI subteam, led/scheduled meetings, converted Schej website UI into our website, built out showcase presentation 
+
+**Latex Documentation of Optimization Model:** https://www.overleaf.com/read/qtkndmstgmdt#c639e0
+
